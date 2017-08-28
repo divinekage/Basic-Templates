@@ -1,7 +1,15 @@
 # Basic-Templates
 
-## Basic_LSTM
-All the different RNNs (One-to-Many, Many-to-One, Many-to-Many) templates.
+## RNNs_Basic
+All the different RNNs templates.
+One-to-Many : 
+  Image/Video Captioning
+Many-to-One : 
+  Sentiment Analysis
+Many-to-Many : 
+  Video Captioning
+  Sequence Labelling
 
-## Advanced_LSTM
-Bidirectional, Attention (To be worked on next)
+## RNNs_Advanced
+Bidirectional:
+Attention (In progress)
