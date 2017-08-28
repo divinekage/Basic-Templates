@@ -2,11 +2,11 @@
 
 ## RNNs_Basic
 All the different RNNs templates.
-One-to-Many : 
+### One-to-Many : 
   Image/Video Captioning
-Many-to-One : 
+### Many-to-One : 
   Sentiment Analysis
-Many-to-Many : 
+### Many-to-Many : 
   Video Captioning
   Sequence Labelling
 
